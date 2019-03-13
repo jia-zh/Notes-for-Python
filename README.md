@@ -1,6 +1,8 @@
 # Program-Notes-for-Python
+[![](https://img.shields.io/badge/update-anytime-success.svg)](https://github.com/jia-zh/Program-Notes-for-Python)
+  
 Some small code knowledge points I often encounter
-
+  
 - 字符串list按照长度排序
 ```python
 my_list = ['青海省', '内蒙古自治区', '西藏自治区', '新疆维吾尔自治区', '广西壮族自治区']  
