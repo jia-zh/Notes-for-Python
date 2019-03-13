@@ -1,4 +1,4 @@
-# Program-Notes-for-Python
+# Notes for Python
 [![](https://img.shields.io/badge/update-anytime-success.svg)](https://github.com/jia-zh/Program-Notes-for-Python)
   
 Some small code knowledge points I often encounter
