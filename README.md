@@ -34,6 +34,17 @@ for k, g in groupby(enumerate(my_list), fun):
 [11, 12, 13, 14]
 ******************
 ```
+3. 遍历list提取下标和值
+```python
+my_list = ['apple', 'oppo', 'vivo']
+for index,value in enumerate(my_list):
+    print(index,value)
+******************
+0 apple
+1 oppo
+2 vivo
+******************
+```
 
 ### Some Code for Dict
 1. dict排序
