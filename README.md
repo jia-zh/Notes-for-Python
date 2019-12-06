@@ -7,7 +7,7 @@ Some small code knowledge points I often encounter
 - [Some Code for Dict](#some-code-for-dict)
 
   
-### Some Code for List
+## Some Code for List
   
 1. 字符串list按照长度排序
 ```python
@@ -46,7 +46,7 @@ for index,value in enumerate(my_list):
 ******************
 ```
 
-### Some Code for Dict
+## Some Code for Dict
 1. dict排序
 ```python
 my_dict = {'am': 5, 'is': 7, 'are': 3}
